@@ -1,0 +1,35 @@
+body{
+background-color:white;
+}
+h1{
+font-family:Matura MT Script Capitals;
+color:white;
+background-color:Blue;
+text-align:centre;
+font-size:600%;
+
+}
+
+h2{
+font-family:Old English Text MT;
+color:white;
+
+}
+p{
+font-family:Lucida Sans Typewriter;
+color:black;
+font-size:200%;
+}	
+h3{
+font-family:Matura MT Script Capitals;
+color:white;
+background-color:Blue;
+text-align:centre;
+font-size:600%;
+
+}
+.centre{
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
